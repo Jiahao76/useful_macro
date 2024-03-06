@@ -1,6 +1,6 @@
 # Useful Excel Macro
 
-I collect useful excel macro here. Each of them is in one single xlms file. The following is a description of them. 
+I collect useful excel macro here. Each of them is in one single xlsm file. The following is a description of them. 
 
 ### 1. Select and highlight the formulas in a region
 
