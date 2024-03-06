@@ -5,3 +5,7 @@ I collect useful excel macro here. Each of them is in one single xlsm file. The 
 ### 1. Select and highlight the formulas in a region
 
 If we have a table starting in A1 and we want to select all cells in the table that include something strange like a formula, then we can use this macro.
+
+### 2. Copy data from worksheets
+
+This macro is useful if we need to copy multiple worksheets into one.
